@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hi, I'm Hans Kuijpers 👋
+
+I am a Happy Frontend Developer based in Eindhoven, The Netherlands
+
+- e-mail: info@hkweb.nl
+- website: [hkweb.nl](https://hkweb.nl)
 
 <!--
 **hans2103/hans2103** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
