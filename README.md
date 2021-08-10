@@ -11,12 +11,7 @@ or just say<a href="https://twitter.com/intent/tweet?url=https%3A%2F%2Fgithub.co
 
 ## :trophy: My Github Stats:
 <div>
-<a href="https://readme-stats-cfgj2cxdy.vercel.app/api?username=hans2103&count_private=true&show_icons=true&theme=tokyonight">
-  <img  align="left" src="https://readme-stats-cfgj2cxdy.vercel.app/api?username=hans2103&count_private=true&show_icons=true&theme=tokyonight" />
-</a>
-<a href="https://readme-stats-cfgj2cxdy.vercel.app/api/top-langs/?username=hans2103&hide=php&theme=tokyonight">
-  <img align="left" src="https://readme-stats-cfgj2cxdy.vercel.app/api/top-langs/?username=hans2103&hide=php&theme=tokyonight" />
-</a>
+  [![Hans2103's GitHub stats](https://github-readme-stats.vercel.app/api?username=hans2103)](https://github.com/anuraghazra/github-readme-stats)
 </div>
 
 <br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
