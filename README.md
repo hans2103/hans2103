@@ -4,9 +4,9 @@
 You have discovered my Github profile. <br>
 I am a Happy Frontend Developer based in Eindhoven, The Netherlands<br/>
 Please feel free to clone projects, raise issues, and submit pull requests. <br>
-Ask me anything <a href="https://github.com/hans2103/hans2103/issues/new"><b>here</b></a><br>
-or just say<a href="https://twitter.com/intent/tweet?url=https%3A%2F%2Fgithub.com%2Fhans2103&text=Hi%20@hans2103%2C%20saying%20hi%20from%20your%20GitHub%21">
-<b>hey</b></a> on twitter. 🙂 </p>
+Ask me anything <a href="https://github.com/hans2103/hans2103/issues/new"><b>here</b></a>. 🙂 </p>
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=hans2103&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
 
 ## :arrow_down: Check out my repos below
 
