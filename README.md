@@ -8,6 +8,8 @@ Ask me anything <a href="https://github.com/hans2103/hans2103/issues/new"><b>her
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=hans2103&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
 
+[![@hans2103's Holopin board](https://holopin.me/hans2103)](https://holopin.io/@hans2103)
+
 ## :arrow_down: Check out my repos below
 
 <!--
