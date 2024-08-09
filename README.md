@@ -1,6 +1,6 @@
 ### Hi, I'm Hans Kuijpers 👋
 
-<p align="center"> 
+<p> 
 You have discovered my Github profile. <br>
 I am a Happy Frontend Developer based in Eindhoven, The Netherlands<br/>
 Please feel free to clone projects, raise issues, and submit pull requests. <br>
