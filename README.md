@@ -1,6 +1,6 @@
 ### Hi, I'm Hans Kuijpers 👋
 
-Frontend developer at [HKweb](https://hkweb.nl) in Eersel, the Netherlands. I build fast, accessible frontends for **Joomla**, **Magento (Hyvä)** and **Craft CMS**, for my own clients and and since 2014 as a freelancer for [Perfect Web Team](https://pwt.nl). Modern CSS is my favourite tool. I made my first website in 1995; HKweb has been around since 2005.
+Frontend developer at [HKweb](https://hkweb.nl) in Eersel, the Netherlands. I build fast, accessible frontends for **Joomla**, **Magento (Hyvä)** and **Craft CMS**, for my own clients and, since 2014, as a freelancer for [Perfect Web Team](https://pwt.nl). Modern CSS is my favourite tool. I made my first website in 1995; HKweb has been around since 2005.
 
 ### Joomla extensions I maintain
 
